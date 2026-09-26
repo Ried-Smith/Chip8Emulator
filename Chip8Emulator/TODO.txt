@@ -1,3 +1,2 @@
-- create window
-- actually figure out how to do this
-- put in github
+- define memory module
+- 
