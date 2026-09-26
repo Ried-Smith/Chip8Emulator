@@ -1,7 +1,7 @@
 // what renders the video and window
 // also manages user input and events
 
-#include "Platform.hpp"
+#include "Platform.h"
 #include <SDL3/SDL.h>
 
 

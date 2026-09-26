@@ -1,7 +1,7 @@
 //main game loop
 
-#include "Chip8.hpp"
-#include "Platform.hpp"
+#include "Chip8.h"
+#include "Platform.h"
 #include <SDL3/SDL.h>
 #include <SDL3/SDL_main.h>
 
