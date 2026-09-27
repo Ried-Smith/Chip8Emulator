@@ -9,6 +9,9 @@ int main(int argc, char** argv) {
 
 	Platform platform("Chip8 Emulator", 640, 320, 64, 32);
 
+	Chip8 chip8;
+	chip8.LoadROM("");
+
 	bool quit = false;
 
 	while (!quit){
